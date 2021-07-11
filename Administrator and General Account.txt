@@ -1,0 +1,10 @@
+AKUN ADMINISTRATOR | ADMINISTRATOR ACCOUNT
+username : adminhash
+password : adminhash
+
+username : admin
+password : admin
+
+AKUN UMUM| GENERAL ACCOUNT
+username : umumhash
+password : umumhash
